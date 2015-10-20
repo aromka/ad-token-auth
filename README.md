@@ -8,6 +8,8 @@ Originally inspired by [ng-token-auth](https://github.com/lynndylanhurley/ng-tok
 
 	bower install ad-token-auth --save-dev
 	
+Include `bower_components/ad-token-auth/src/ad-token-auth.min.js`
+	
 
 ### Example Usage
 	
