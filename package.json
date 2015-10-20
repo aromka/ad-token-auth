@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aromka/adTokenAuth.git"
+    "url": "git+https://github.com/aromka/ad-token-auth.git"
   },
   "keywords": [
     "angular",
@@ -19,9 +19,9 @@
   "author": "Roman Alexeev <aromka@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aromka/adTokenAuth/issues"
+    "url": "https://github.com/aromka/ad-token-auth/issues"
   },
-  "homepage": "https://github.com/aromka/adTokenAuth#readme",
+  "homepage": "https://github.com/aromka/ad-token-auth#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-uglify": "^1.4.2"

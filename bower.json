@@ -1,7 +1,7 @@
 {
-  "name": "adTokenAuth",
+  "name": "ad-token-auth",
   "version": "1.0.0",
-  "homepage": "https://github.com/aromka/adTokenAuth",
+  "homepage": "https://github.com/aromka/ad-token-auth",
   "authors": [
     "Roman Alexeev <aromka@gmail.com>"
   ],
