@@ -1,0 +1,26 @@
+{
+  "name": "adTokenAuth",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aromka/adTokenAuth",
+  "authors": [
+    "Roman Alexeev <aromka@gmail.com>"
+  ],
+  "description": "Angular jwt auth service.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "ng",
+    "token",
+    "jwt",
+    "auth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

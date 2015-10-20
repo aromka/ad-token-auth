@@ -4,6 +4,11 @@ Angular token auth, was made to work with [jwt-auth plugin for Laravel](https://
 
 Originally inspired by [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth).
 
+### Installation
+
+	bower install adTokenAuth --save-dev
+	
+
 ### Example Usage
 	
 	angular.module('myApp', ['adTokenAuth'])
