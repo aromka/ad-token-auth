@@ -1,6 +1,6 @@
 {
   "name": "ad-token-auth",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular jwt auth service.",
   "main": "gulpfile.js",
   "scripts": {
