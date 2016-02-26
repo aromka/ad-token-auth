@@ -37,13 +37,13 @@ Include `bower_components/ad-token-auth/src/ad-token-auth.min.js`
 	
 		// handle successful auth
 		var authSuccess = function(data) {
-			Auth.setIsLoggedIn(true);
-			Auth.setUser(data.user);
+			Session.setIsLoggedIn(true);
+			Session.setUser(data.user);
 		};
 	
 		// handle failed auth
 		var authFail = function(shouldRedirect) {
-			Auth.reset();
+			Session.reset();
 			if (shouldRedirect) {
 				$location.url('/login');
 			}
