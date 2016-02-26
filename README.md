@@ -6,7 +6,7 @@ Originally inspired by [ng-token-auth](https://github.com/lynndylanhurley/ng-tok
 
 ### Installation
 
-	bower install ad-token-auth --save-dev
+	bower install ad-token-auth --save
 	
 Include `bower_components/ad-token-auth/src/ad-token-auth.min.js`
 	
